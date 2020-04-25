@@ -1,3 +1,4 @@
+(东南大学计算机设计竞赛D01-013组代码)
 ### Introduction
 This is a pytorch implemention of the encoder-forecaster model for precipitation nowcasting. The code is based on [Precipitation-Nowcasting](https://github.com/Hzzone/Precipitation-Nowcasting). For more information about TrajGRU, please refer to [HKO-7](https://github.com/sxjscience/HKO-7).
 
